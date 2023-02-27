@@ -1,0 +1,9 @@
+#price{
+    color: green ;
+}
+#stock{
+    color: red;
+}
+.card{
+    box-shadow: 0px 2px  10px rgba(0, 0, 0, 0.455);
+}

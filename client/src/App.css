@@ -1,0 +1,28 @@
+.regContainer,.loginContainer{
+  height: 55rem;
+  background-color: #3187ED;
+  background-size: cover;
+  border-radius: 2%;
+}
+/* --------cart--------- */
+.cartPage{
+  background-color: #3187ED;
+  border-radius: 10px;
+  color: white;
+}
+.cartTitleRow{
+  color: black;
+  font-weight: 800;
+  text-shadow: 2px 2px  grey;
+  border-bottom:1px solid white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+
+@media only screen and (max-width: 576px) {
+  .cartTitleRow {
+      display: none;
+  }
+}
+/* --------cart--------- */
